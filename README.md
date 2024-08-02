@@ -5,6 +5,19 @@ Link de cenários de testes: https://docs.google.com/spreadsheets/d/1oNtuyJdK5_X
 <br/> Link com bugs cadastrados: https://docs.google.com/spreadsheets/d/1xrT8dowAzgPlRit_IwqtZURaN-4l4aKFDlzgp2Kja08/edit?usp=sharing
 <br/> Link evidências do teste em formato MP4: https://drive.google.com/drive/folders/1kjOJ0WHs6y3x0XYleWdPdFZVxt4Hv5Bj?usp=sharing
 
+<br/> **Considerações iniciais**:
+<br/>
+<br/> :bug: No relatório de bugs foi utilizado a metodologia tradicional de bug report, pois para o caso concreto comunicam melhor e com mais objetividade as inconsistências por conter os seguintes atributos:
+<br/> ID do Bug
+<br/> Data
+<br/> Status
+<br/> Prioridade
+<br/> Severidade
+<br/> Afetado pelo bug
+<br/> Título do bug
+<br/> Descrição do bug
+<br/> Passo para reprodução
+<br/> E outras informações importantes.
 
 ### Visão Geral
 Este projeto tem o objetivo de realizar testes de software do Módulo de Cursos em vistas a garantir a qualidade e a robustez da plataforma de aprendizado online da empresa. Tendo em vista ser este um módulo importante do projeto, é essencial que a sua funcionalidade e usabilidade facilitem o processo de aprendizado do usuário. Através deste projeto de teste, procurei elaborar user stories sob a pespectiva do usuário e que reflissem sua real necessidade e, a partir daí, validar cenários de testes de fluxo principal e de excessão, abordando a jornada do usuário e visando mitigar inconsistências.
