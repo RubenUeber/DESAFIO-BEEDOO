@@ -340,7 +340,7 @@ Critérios de aceite:
 |Implementar seção de recomendação de cursos|Lista de cursos|
 |Implementar dashboard dos cursos|Lista de cursos|
 |Implementar confirmação de matricula de curso|Lista de cursos|
-
+|Implementar controle de acesso aos usuários|Login|
 
 
 
